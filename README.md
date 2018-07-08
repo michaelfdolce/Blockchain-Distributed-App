@@ -10,7 +10,7 @@
     truffle develop
     ```
 
-3. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with `truffle`.
+3. Compile and migrate the smart contracts. .
     ```javascript
     compile
     migrate
